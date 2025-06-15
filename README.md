@@ -70,23 +70,8 @@ Summarize all content
 
 Save results to report.pdf
 
-What You Get
-Automated Google Search
-
-Web scraping & crawling
-
-Smart summarization with GPT-4
-
-Organized PDF report
 
 
 ---
 
-## ✅ **Done — Professional & Clear**
 
-Let me know if you’d like:
-- A `.gitignore`  
-- A `LICENSE` file  
-- Or a sample `.env` instead of `config.py` (for production)
-
-Ready to push 🚀✨
